@@ -1,0 +1,9 @@
+{
+  "BrowserSettings": {
+    "Url": "https://demoqa.com/",
+    "Delay": "10",
+    "Browser": "Chrome",
+    "Lang": "en",
+    "PageLoadStrategy": "Eager"
+  }
+}

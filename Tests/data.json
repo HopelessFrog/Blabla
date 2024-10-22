@@ -1,0 +1,21 @@
+{
+  "UsersData": [
+    {
+      "FirsName": "Jon",
+      "LastName": "Snow",
+      "Email": "knownothing@gmail.com",
+      "Age": 30,
+      "Salary": 3000,
+      "Department": "alpha"
+    },
+    {
+      "FirsName": "Buttercup",
+      "LastName": "Cumbersnatch",
+      "Email": "BudapestCandygram@mail.ru",
+      "Age": 41,
+      "Salary": 2000,
+      "Department": "beta"
+    }
+  ]
+
+}
